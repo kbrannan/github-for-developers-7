@@ -2,3 +2,4 @@
      - [ ] Pennsylvania
      - [ ] Pizza
      - [ ] Archery
+     - [ ] Favorite Color
